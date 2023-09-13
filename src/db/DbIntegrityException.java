@@ -1,4 +1,4 @@
-package jdbc5.db;
+package db;
 
 public class DbIntegrityException extends RuntimeException {
     
