@@ -1,0 +1,41 @@
+[33mcommit 1382e392e8b8bbe94ba5da3ab80a5f85ce8f0240[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: fabiopamaral <fabio.pamaral@outlook.com>
+Date:   Wed Sep 13 22:29:20 2023 -0300
+
+    findById implementation
+
+[33mcommit d4e8dae0c1895c506820198ecda51117f0edd139[m
+Author: fabiopamaral <fabio.pamaral@outlook.com>
+Date:   Wed Sep 13 21:29:55 2023 -0300
+
+    SellerDaoJDBC and DaoFactory
+
+[33mcommit e94e5e46fa71be7f547d93a2ae45598d8e7b0525[m
+Author: fabiopamaral <fabio.pamaral@outlook.com>
+Date:   Wed Sep 13 21:16:31 2023 -0300
+
+    DepartmentDao and SellerDao interfaces
+
+[33mcommit c31d6280e24f6979fd3fcd14e6e63db5b3262f98[m
+Author: fabiopamaral <fabio.pamaral@outlook.com>
+Date:   Tue Sep 12 22:53:40 2023 -0300
+
+    Seller entity class
+
+[33mcommit ade3c5054e4ae8af7d7ac04d7c13b0f8035086dd[m
+Author: fabiopamaral <fabio.pamaral@outlook.com>
+Date:   Tue Sep 12 22:43:52 2023 -0300
+
+    Department entity class
+
+[33mcommit 4ed7ce9d8911fb4ac1f0f0b1d3885f1bea7da2db[m
+Author: fabiopamaral <fabio.pamaral@outlook.com>
+Date:   Tue Sep 12 22:25:10 2023 -0300
+
+    Creating project and git repository
+
+[33mcommit c44f8852214be2cf3aa7e65996e49ead3cbe4a46[m
+Author: fabiopamaral <135441900+fabiopamaral@users.noreply.github.com>
+Date:   Tue Sep 12 22:12:20 2023 -0300
+
+    Initial commit
